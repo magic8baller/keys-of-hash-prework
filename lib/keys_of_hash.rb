@@ -8,6 +8,6 @@ class Hash
         keys_array << key
       end
     end
+    keys_array
   end
-  keys_array
 end
